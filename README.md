@@ -1,7 +1,7 @@
 # Database34
 Final Database Project
 
-Database located at s17guestdatabase34
+Database located at s17guest34
 
 Triggers are stored in the ./Programmability/Triggers folder
 
