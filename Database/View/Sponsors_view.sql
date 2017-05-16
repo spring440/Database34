@@ -2,7 +2,7 @@
 -- -----------------------------------------------------
 -- View `dbo.Sponsors_view`
 -- -----------------------------------------------------
-/*
+
 IF OBJECT_ID('dbo.Sponsors_view', 'U') IS NOT NULL 
   DROP VIEW dbo.Sponsors_view; 
 USE[s17guest34];
