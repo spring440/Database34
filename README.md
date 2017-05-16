@@ -4,6 +4,7 @@ Final Database Project
 Database located at s17guestdatabase34
 
 Triggers are stored in the ./Programmability/Triggers
+
 An insertion script for the data is located in ./Database as DataInsertionAllTables
 
 Let's say, there is an event. This event is an educational event called  SQL Saturday. It is a database people meetup. It happens once a year at many given addresses/locations and driven by local user groups.
